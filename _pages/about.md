@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-To be updated
+I am current an MBA student at Institute of Management Technology (IMT), Ghaziabad. I have Finance as a major and IT & Analytics as a minor specialisaiton. 
