@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Danish Saeed"
-excerpt: "About me"
+title: "About Me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
