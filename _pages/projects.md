@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
+##[Project Test](check)
+<li>test 1
+<li>test 2
