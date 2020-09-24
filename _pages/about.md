@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Danish Saeed"
-excerpt: ""
+title: "About Me"
+excerpt: "MBA Finance, IT & Analytics | IMT Ghaziabad | AMU"
 author_profile: true
 redirect_from: 
   - /about/
