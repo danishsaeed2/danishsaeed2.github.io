@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Download resume [here](files/Resume - Danish Saeed.pdf)
+<embed src="https://danishsaeed2.github.io/files/Resume - Danish Saeed.pdf" type="application/pdf" />
+
+Download resume [here](https://danishsaeed2.github.io/files/Resume - Danish Saeed.pdf)
