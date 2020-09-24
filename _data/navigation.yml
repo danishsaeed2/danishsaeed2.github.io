@@ -3,6 +3,9 @@ main:
     
   - title: "Resume"
     url: https://resume.creddle.io/resume/7igwsegsk9o
-    
+ 
+  - title: "Resume1"
+    url: /resume/
+
   - title: "Projects"
     url: /projects/
