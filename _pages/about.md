@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Danish Saeed"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am current an MBA student at [Institute of Management Technology (IMT), Ghaziabad](https://www.imt.edu/). I have **Finance** as a major and **IT & Analytics** as a minor specialisaiton. I am a Data Science and Analytics enthusiast interested using data-centric processes to gain insights and drive decision making. I have interned at Hedge Equities Ltd. as a Research Analyst during summers of 2020.
+{% include base_path %}
+
+I am current an MBA student at [Institute of Management Technology (IMT)](https://www.imt.edu/), Ghaziabad. I have **Finance** as a major and **IT & Analytics** as a minor specialisaiton. I am a Data Science and Analytics enthusiast interested using data-centric processes to gain insights and drive decision making. I have interned at Hedge Equities Ltd. as a Research Analyst during summers of 2020.
 
 I graduated from Aligarh Muslim University in 2019 where I studied Computer Engineering. I completed a minor academic project in my third-year on *Stock Market Prediction using Machine Learning Techniques*. In my fourth-year I completed a major academic project on *Generative Adversarial Networks for Novel Art Generation*. In a team of four, we were ranked in top 12 among 54 participating teams at Hack36 2018, a hackathon organized by MNNIT Allahabad. I interned at Sarens Heavy Lifts during summers of 2018 as an ICT intern.
 
