@@ -14,3 +14,6 @@ I graduated from Aligarh Muslim University in 2019 where I studied Computer Engi
 
 I am a music enthusiast and bass guitarist, vocalist and a beginner on the drums. During my graduation I was a member of the University Western Music Club, AMU for three years and in the fourth session (2018-19) I was appointed as the Secretary of the club during which, I successfully organized a university wide concert and collaborated in multiple cultural events.
 I am also a football player and follower of European football. I was the captain of the college Computer engineering football team and led the team to the runners up position in the inter-branch college tournament.
+
+Kaggle profile: [https://www.kaggle.com/danishsaeed15](https://www.kaggle.com/danishsaeed15)
+Tableau Public: [https://public.tableau.com/profile/danish.saeed#!/](https://public.tableau.com/profile/danish.saeed#!/)
