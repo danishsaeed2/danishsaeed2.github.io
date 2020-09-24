@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "MBA Finance, IT & Analytics | IMT Ghaziabad | AMU"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
