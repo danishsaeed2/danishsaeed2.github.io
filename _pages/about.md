@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-{% include base_path %}
-
 I am current an MBA student at [Institute of Management Technology (IMT)](https://www.imt.edu/), Ghaziabad. I have **Finance** as a major and **IT & Analytics** as a minor specialisaiton. I am a Data Science and Analytics enthusiast interested using data-centric processes to gain insights and drive decision making. I have interned at Hedge Equities Ltd. as a Research Analyst during summers of 2020.
 
 I graduated from Aligarh Muslim University in 2019 where I studied Computer Engineering. During the time, I have completed academic projects with applications of machine learning, prediction and classification, deep learning and neural networks. In a team of four, we were ranked in top 12 among 54 participating teams at Hack36 2018, a hackathon organized by MNNIT Allahabad. I interned at Sarens Heavy Lifts during summers of 2018 as an ICT intern.
