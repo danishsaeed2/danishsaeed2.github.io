@@ -3,14 +3,13 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## [Generative Adversarial Networks: A Survey of Techniques and Methods](https://link.springer.com/chapter/10.1007/978-3-030-24643-3_58){:target="_blank"} (August 2020)
+Published in *Proceeding of the International Conference on Computer Networks, Big Data and IoT (ICCBI - 2018)*
+
+The paper can be viewed [here](https://drive.google.com/file/d/1DHL4Uhv0TsePFOYL3GARt6RIJ3-Q34-k/view?usp=sharing){:target="_blank"}
