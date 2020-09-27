@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+header {display: none;}
+.page__title {display: none;}
+</style>
+
 # About Me
 
 I am current an MBA student at [Institute of Management Technology (IMT)](https://www.imt.edu/), Ghaziabad. I have **Finance** as a major and **IT & Analytics** as a minor specialisaiton. I am a Data Science and Analytics enthusiast interested using data-centric processes to gain insights and drive decision making. I have interned at Hedge Equities Ltd. as a Research Analyst during summers of 2020.
