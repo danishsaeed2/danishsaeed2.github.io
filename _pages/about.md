@@ -11,6 +11,7 @@ redirect_from:
 header {display: none;}
 .page__title {display: none;}
 </style>
+<title>Danish Saeed</title>
 
 # About Me
 
