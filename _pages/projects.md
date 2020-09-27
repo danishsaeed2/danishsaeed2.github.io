@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="line-height:0.8;">
 ## [Business Insights using Association Rule Mining – Business Analytics](https://github.com/danishsaeed2/analytics_projects/tree/master/ba_project){:target="_blank"}
 August 2020
 - Twitter data extraction and preprocessing using nltk and genism in Python3
@@ -32,5 +31,3 @@ August 2017 - November 2017
 - Developed a backtesting engine in Python and used machine learning to predict New York Stock Exchange (NYSE) listed stock prices as part of third year project.
 - Used various algorithms and models, such as Support Vector Machine (SVM) and Neural Networks
 - Used scikit-learn for machine learning algorithms and Flask web app
-
-</div>
