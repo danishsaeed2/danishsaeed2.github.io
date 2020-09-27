@@ -7,8 +7,6 @@ redirect_from:
   - /projects
 ---
 
-{% include base_path %}
-
 ## [Business Insights using Association Rule Mining – Business Analytics](https://github.com/danishsaeed2/analytics_projects/tree/master/ba_project){:target="_blank"}
 August 2020<br/>
 - Twitter data extraction and preprocessing using nltk and genism in Python3.<br/>
