@@ -22,7 +22,7 @@ I graduated from Aligarh Muslim University in 2019 where I studied Computer Engi
 I am a music enthusiast, bass guitarist and a vocalist. During my graduation I was a member of the University Western Music Club, AMU for three years and was appointed the Secretary of the club in my fourth year, during which, I successfully organized a university wide concert and collaborated in multiple cultural events.<br/>
 I am also a footballer and take a huge interest in European football. I was the captain of the college Computer engineering football team and led the team to the runners up position in the inter-branch college tournament.
 
-<img src="https://danishsaeed2.github.io/images/danish.jpeg"
+<img src="https://danishsaeed2.github.io/images/danish.jpg"
      alt="Danish Saeed"
      style="width:450px; height: auto; border-radius:1%; border:1px solid #51555d;"
 		 class="center"/>
