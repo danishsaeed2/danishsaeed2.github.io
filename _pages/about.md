@@ -24,7 +24,7 @@ I am also a footballer and take a huge interest in European football. I was the 
 
 <img src="https://danishsaeed2.github.io/images/danish.jpeg"
      alt="Danish Saeed"
-     style="width:450px; height:340px; border-radius:1%; border:1px solid #51555d;"
+     style="width:450px; height: auto; border-radius:1%; border:1px solid #51555d;"
 		 class="center"/>
 
 Kaggle profile: [https://www.kaggle.com/danishsaeed15](https://www.kaggle.com/danishsaeed15){:target="_blank"} <br/>
