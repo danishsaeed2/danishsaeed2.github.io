@@ -31,6 +31,8 @@ redirect_from:
         });
 </script>
 
-<iframe src="https://danishsaeed2.github.io/files/Resume - Danish Saeed.pdf#toolbar=0" class="iframe" scrolling="no" frameborder="0"></iframe>
+
+<iframe src="https://danishsaeed2.github.io/files/Resume - Danish Saeed.pdf#toolbar=0" class="iframe" scrolling="no" style="width:100%; border:1px solid #51555d;">
+</iframe>
 
 If the embedded pdf is not visible correctly, please [view it externally](https://resume.creddle.io/resume/7igwsegsk9o){:target="_blank"} or download my resume [here](https://danishsaeed2.github.io/files/Resume - Danish Saeed.pdf)
