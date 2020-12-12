@@ -9,7 +9,7 @@ redirect_from:
 
 ## [Business Insights using Association Rule Mining – Business Analytics](https://github.com/danishsaeed2/analytics_projects/tree/master/business_analytics_project){:target="_blank"}
 <p style="margin: 5px 0px 5px 0px;">August 2020<br/></p>
-- Twitter data extraction and preprocessing using nltk and genism in Python3.<br/>
+- Twitter data extraction and preprocessing using nltk and gensim in Python3.<br/>
 - Used Apriori algorithm and association rule mining to understand consumer behaviour and sentiments during lockdown<br/>
 
 ## Generative Adversarial Networks for Novel Art Generation
