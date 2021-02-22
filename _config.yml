@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+  provider               : "custom" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-179177229-1
+    tracking_id          :
 
 
 # Site Author
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KzE9dHkAAAAJ"
-  email            :
+  email            : "danishsaeed2@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
